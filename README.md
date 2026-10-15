@@ -43,6 +43,9 @@ Fantasy books had the highest median page count of the three genres.
 
 A Pearson correlation analysis also found a positive association between publication year and page count (r ≈ 0.343).
 
+## Figure
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/868f6ef6-22a2-4afd-ace7-016fe38547f4" />
+
 ## Limitations
 
 The dataset was collected from the first 200 API search results for each genre rather than through random sampling. The findings therefore should not be generalized to all books.
